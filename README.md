@@ -2,7 +2,7 @@
 _Click on the topic for direct navigation_
 
 **Attention**
-- Currently Open Issue : [Issue](https://github.com/sayankae/RPS-Assignment/issues/3)
+- Currently Open Issue : No Issues
 
 ## Assignment Done till date
 - [M1 Computer Architecture - Hardware, Netwrok and Software](https://github.com/sayankae/RPS-Assignment/tree/bbbed42a0a33f67c6e9ca84e95e69d912fda923f/M1%20Computer%20Architecture%20-%20Hardware%2C%20Netwrok%20and%20Software)
