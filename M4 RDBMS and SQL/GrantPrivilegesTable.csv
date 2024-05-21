@@ -1,0 +1,3 @@
+"Grants for sayan@localhost"
+"GRANT USAGE ON *.* TO `sayan`@`localhost`"
+"GRANT ALL PRIVILEGES ON `wiprodb`.* TO `sayan`@`localhost`"
