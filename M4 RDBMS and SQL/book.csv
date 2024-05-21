@@ -1,0 +1,5 @@
+BookId,BookName,UserId,DateIssued,Price
+1,"Book One",1,2024-05-01,100
+2,"Book Two",2,2024-05-05,150
+3,"Book Three",NULL,NULL,200
+4,"Book Four",NULL,NULL,250
