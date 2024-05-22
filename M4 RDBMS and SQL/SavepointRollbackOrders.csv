@@ -1,0 +1,3 @@
+order_id,customer_id,order_date,total_amount,product_id
+102,2,2024-05-24,75.00,2
+101,1,2024-05-23,50.00,1

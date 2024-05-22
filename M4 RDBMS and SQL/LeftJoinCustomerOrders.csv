@@ -1,0 +1,13 @@
+customer_id,name,email,city,order_id,order_date,total_amount
+1,"John Doe",john@example.com,"New York",1,2024-05-22,50.00
+1,"John Doe",john@example.com,"New York",2,2024-05-21,75.00
+31,"Sophie Walker",sophie@example.com,"New York",41,2024-04-12,45.00
+31,"Sophie Walker",sophie@example.com,"New York",42,2024-04-11,80.00
+32,"Ethan Scott",ethan@example.com,"New York",43,2024-04-10,55.00
+32,"Ethan Scott",ethan@example.com,"New York",44,2024-04-09,70.00
+33,"Isabella White",isabella@example.com,"New York",45,2024-04-08,90.00
+33,"Isabella White",isabella@example.com,"New York",46,2024-04-07,65.00
+34,"Jackson Green",jackson@example.com,"New York",47,2024-04-06,40.00
+34,"Jackson Green",jackson@example.com,"New York",48,2024-04-05,85.00
+35,"Amelia Adams",amelia@example.com,"New York",49,2024-04-04,30.00
+35,"Amelia Adams",amelia@example.com,"New York",50,2024-04-03,95.00

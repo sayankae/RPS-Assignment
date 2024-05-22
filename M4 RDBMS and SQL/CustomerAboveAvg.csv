@@ -1,0 +1,26 @@
+customer_id,name,email,city,total_order_amount
+1,"John Doe",john@example.com,"New York",125.00
+2,"Jane Smith",jane@example.com,"Los Angeles",160.00
+3,"Michael Johnson",michael@example.com,Chicago,125.00
+4,"Emily Brown",emily@example.com,Houston,125.00
+5,"William Lee",william@example.com,Phoenix,155.00
+6,"Emma Davis",emma@example.com,Philadelphia,125.00
+7,"Matthew Wilson",matthew@example.com,"San Antonio",125.00
+8,"Olivia Martinez",olivia@example.com,"San Diego",125.00
+9,"Daniel Anderson",daniel@example.com,Dallas,145.00
+10,"Sophia Taylor",sophia@example.com,"San Jose",140.00
+11,"Liam Brown",liam@example.com,Austin,125.00
+12,"Ava Garcia",ava@example.com,Jacksonville,125.00
+13,"Noah Rodriguez",noah@example.com,"San Francisco",155.00
+14,"Isabella Hernandez",isabella@example.com,Indianapolis,125.00
+15,"James Martinez",james@example.com,Columbus,125.00
+16,"Mia Lopez",mia@example.com,"Fort Worth",125.00
+17,"Benjamin Gonzalez",benjamin@example.com,Charlotte,145.00
+18,"Charlotte Perez",charlotte@example.com,Seattle,140.00
+19,"Elijah Torres",elijah@example.com,Denver,125.00
+20,"Amelia Adams",amelia@example.com,Washington,160.00
+31,"Sophie Walker",sophie@example.com,"New York",125.00
+32,"Ethan Scott",ethan@example.com,"New York",125.00
+33,"Isabella White",isabella@example.com,"New York",155.00
+34,"Jackson Green",jackson@example.com,"New York",125.00
+35,"Amelia Adams",amelia@example.com,"New York",125.00
