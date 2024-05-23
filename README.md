@@ -30,3 +30,20 @@ ___
 - [**M4 RDBMS and SQL**](https://github.com/sayankae/RPS-Assignment/tree/77d283ba388926d78918a6e68a814dedd7687258/M4%20RDBMS%20and%20SQL)
 
 ___
+# Training Assignment Completion Tracker
+
+## Trello Board
+
+[For Trello Board Click Me](https://trello.com/invite/b/NIyzTZhx/ATTI3b7ddaecfcfeff04ef899911287fdac75CD1DE2E/assignment-completion)
+
+Our Trello board helps track the progress of training assignments effectively. Below is a brief description of each column used in the board:
+
+1. **Backlog**: Contains all tasks that need to be completed but have not yet been prioritized.
+2. **To Do**: Lists tasks that are prioritized and ready to be started.
+3. **Doing**: Shows tasks that are currently being worked on.
+4. **Code Review**: Holds tasks that are completed but need a review.
+5. **Done**: Includes tasks that have been reviewed and completed.
+6. **Git Upload**: Contains tasks that are prepared for upload to the version control system.
+
+This structured workflow ensures a smooth process from task identification to final completion.
+___
