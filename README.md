@@ -28,7 +28,7 @@ ___
 - [**M2 Software Development Life Cycle and Agile Principles**](https://github.com/sayankae/RPS-Assignment/tree/bbbed42a0a33f67c6e9ca84e95e69d912fda923f/M2%20Software%20Development%20Life%20Cycle%20and%20Agile%20Principles)
 - [**M3 Linux Operating System and Source Code Management with Git**](https://github.com/sayankae/RPS-Assignment/tree/bbbed42a0a33f67c6e9ca84e95e69d912fda923f/M3%20Linux%20Operating%20System%20and%20Source%20Code%20Management%20with%20Git)
 - [**M4 RDBMS and SQL**](https://github.com/sayankae/RPS-Assignment/tree/77d283ba388926d78918a6e68a814dedd7687258/M4%20RDBMS%20and%20SQL)
-- [**M5 Core Java Programming**](https://github.com/sayankae/RPS-Assignment/tree/89cb874471dc1aab54d7dd5db74d43ca37eb9d71/M5%20Core%20Java%20Programming)
+- [**M5 Core Java Programming**](https://github.com/sayankae/RPS-Assignment/tree/97b1121e910de676f1aa20872af2ba02818ca6ed/M5%20Core%20Java%20Programming)
 
 ___
 # Training Assignment Completion Tracker
